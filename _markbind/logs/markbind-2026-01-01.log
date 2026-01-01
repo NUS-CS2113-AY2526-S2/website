@@ -1,0 +1,1234 @@
+2026-01-01T04:04:34.663Z - info: Website generation (lazy) started at 12:04:33
+2026-01-01T04:04:35.237Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-01T04:04:35.237Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-01T04:04:35.257Z - info: Building assets...
+2026-01-01T04:04:38.053Z - info: Assets built
+2026-01-01T04:04:38.054Z - info: Generating landing page...
+2026-01-01T04:04:38.114Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md) [Line 18, Column 3]
+  unexpected token: ]
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:54:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2026-01-01T04:04:38.124Z - warn:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/css.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md) [Line 18, Column 3]
+  unexpected token: ]
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:96:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at Layout.<anonymous> (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Layout/Layout.js:70:61)
+    at Generator.next (<anonymous>)
+2026-01-01T04:04:38.702Z - info: Site data built
+2026-01-01T04:04:38.702Z - info: Website generation (lazy) complete! Total build time: 5.284s
+2026-01-01T04:04:38.713Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-01-01T04:04:38.713Z - info: Press CTRL+C to stop ...
+2026-01-01T04:06:40.612Z - info: Website generation (lazy) started at 12:06:40
+2026-01-01T04:06:40.992Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-01T04:06:40.992Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-01T04:06:41.015Z - info: Building assets...
+2026-01-01T04:06:44.788Z - info: Assets built
+2026-01-01T04:06:44.789Z - info: Generating landing page...
+2026-01-01T04:06:45.102Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-01-01T04:06:45.176Z - info: Site data built
+2026-01-01T04:06:45.176Z - info: Website generation (lazy) complete! Total build time: 4.585s
+2026-01-01T04:06:45.184Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-01-01T04:06:45.184Z - info: Press CTRL+C to stop ...
+2026-01-01T04:07:02.212Z - info: Website generation (lazy) started at 12:07:00
+2026-01-01T04:07:02.469Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-01T04:07:02.469Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-01T04:07:02.488Z - info: Building assets...
+2026-01-01T04:07:05.613Z - info: Assets built
+2026-01-01T04:07:05.614Z - info: Generating landing page...
+2026-01-01T04:07:05.686Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md) [Line 18, Column 3]
+  unexpected token: ]
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:54:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2026-01-01T04:07:05.696Z - warn:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/css.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md) [Line 18, Column 3]
+  unexpected token: ]
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:96:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at Layout.<anonymous> (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Layout/Layout.js:70:61)
+    at Generator.next (<anonymous>)
+2026-01-01T04:07:06.679Z - info: Site data built
+2026-01-01T04:07:06.679Z - info: Website generation (lazy) complete! Total build time: 5.85s
+2026-01-01T04:07:06.684Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-01-01T04:07:06.684Z - info: Press CTRL+C to stop ...
+2026-01-01T04:09:01.037Z - info: Website generation (lazy) started at 12:09:01
+2026-01-01T04:09:01.362Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-01T04:09:01.363Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-01T04:09:01.382Z - info: Building assets...
+2026-01-01T04:09:05.022Z - info: Assets built
+2026-01-01T04:09:05.024Z - info: Generating landing page...
+2026-01-01T04:09:05.094Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md) [Line 18, Column 3]
+  unexpected token: ]
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:54:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2026-01-01T04:09:05.103Z - warn:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/css.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md) [Line 18, Column 3]
+  unexpected token: ]
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:96:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at Layout.<anonymous> (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Layout/Layout.js:70:61)
+    at Generator.next (<anonymous>)
+2026-01-01T04:09:06.049Z - info: Site data built
+2026-01-01T04:09:06.050Z - info: Website generation (lazy) complete! Total build time: 5.036s
+2026-01-01T04:09:06.055Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-01-01T04:09:06.055Z - info: Press CTRL+C to stop ...
+2026-01-01T04:10:14.574Z - info: Website generation (lazy) started at 12:10:14
+2026-01-01T04:10:14.833Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-01T04:10:14.834Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-01T04:10:14.853Z - info: Building assets...
+2026-01-01T04:10:18.116Z - info: Assets built
+2026-01-01T04:10:18.119Z - info: Generating landing page...
+2026-01-01T04:10:18.194Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md) [Line 18, Column 3]
+  unexpected token: ]
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:54:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2026-01-01T04:10:18.205Z - warn:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/css.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md) [Line 18, Column 3]
+  unexpected token: ]
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:96:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at Layout.<anonymous> (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Layout/Layout.js:70:61)
+    at Generator.next (<anonymous>)
+2026-01-01T04:10:19.201Z - info: Site data built
+2026-01-01T04:10:19.201Z - info: Website generation (lazy) complete! Total build time: 4.661s
+2026-01-01T04:10:19.210Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-01-01T04:10:19.210Z - info: Press CTRL+C to stop ...
+2026-01-01T04:10:45.347Z - info: Website generation (lazy) started at 12:10:45
+2026-01-01T04:10:45.604Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-01T04:10:45.605Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-01T04:10:45.624Z - info: Building assets...
+2026-01-01T04:10:48.884Z - info: Assets built
+2026-01-01T04:10:48.886Z - info: Generating landing page...
+2026-01-01T04:10:49.150Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-01-01T04:10:49.216Z - info: Site data built
+2026-01-01T04:10:49.216Z - info: Website generation (lazy) complete! Total build time: 3.903s
+2026-01-01T04:10:49.225Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-01-01T04:10:49.225Z - info: Press CTRL+C to stop ...
+2026-01-01T04:14:21.804Z - info: Website generation (lazy) started at 12:14:20
+2026-01-01T04:14:22.122Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-01T04:14:22.122Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-01T04:14:22.141Z - info: Building assets...
+2026-01-01T04:14:25.430Z - info: Assets built
+2026-01-01T04:14:25.431Z - info: Generating landing page...
+2026-01-01T04:14:25.488Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/index.md) [Line 98, Column 1]
+  unexpected token: ]
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:54:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2026-01-01T04:14:25.498Z - warn:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/css.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/default.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md) [Line 98, Column 1]
+  unexpected token: ]
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:96:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at Layout.<anonymous> (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Layout/Layout.js:70:61)
+    at Generator.next (<anonymous>)
+2026-01-01T04:14:26.502Z - info: Site data built
+2026-01-01T04:14:26.502Z - info: Website generation (lazy) complete! Total build time: 5.639s
+2026-01-01T04:14:26.511Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-01-01T04:14:26.511Z - info: Press CTRL+C to stop ...
+2026-01-01T04:14:59.302Z - info: [12:14:59] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/weeklyTpTasks-fragment.md
+2026-01-01T04:14:59.305Z - info: Synchronizing opened pages list before reload
+2026-01-01T04:14:59.305Z - info: No pages are currently opened
+2026-01-01T04:15:01.943Z - info: Website generation (lazy) started at 12:15:01
+2026-01-01T04:15:02.216Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-01T04:15:02.217Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-01T04:15:02.237Z - info: Building assets...
+2026-01-01T04:15:05.216Z - info: Assets built
+2026-01-01T04:15:05.217Z - info: Generating landing page...
+2026-01-01T04:15:05.490Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-01-01T04:15:05.555Z - info: Site data built
+2026-01-01T04:15:05.556Z - info: Website generation (lazy) complete! Total build time: 3.646s
+2026-01-01T04:15:05.561Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-01-01T04:15:05.561Z - info: Press CTRL+C to stop ...
+2026-01-01T04:15:27.403Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index as some of its dependencies were changed since the last visit
+2026-01-01T04:15:27.594Z - info: Site data built
+2026-01-01T04:15:27.594Z - info: Lazy website regeneration complete! Total build time: 0.192s
+2026-01-01T04:15:35.449Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/designPatterns as some of its dependencies were changed since the last visit
+2026-01-01T04:15:37.526Z - debug:  
+2026-01-01T04:15:37.572Z - info: Site data built
+2026-01-01T04:15:37.572Z - info: Lazy website regeneration complete! Total build time: 2.123s
+2026-01-01T04:17:49.061Z - info: [12:17:49] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/diagrams/designPatterns/modelViewController/whatItIs/~$classDiagram.pptx
+2026-01-01T04:17:49.064Z - info: Synchronizing opened pages list before reload
+2026-01-01T04:17:49.066Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T04:17:49.066Z - info: 1. se-book-adapted/chapters/designPatterns
+2026-01-01T04:17:50.180Z - info: Assets built
+2026-01-01T04:17:55.229Z - info: [12:17:55] Reload for file deletion: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/diagrams/designPatterns/modelViewController/whatItIs/~$classDiagram.pptx
+2026-01-01T04:17:55.231Z - info: Synchronizing opened pages list before reload
+2026-01-01T04:17:55.234Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T04:17:55.234Z - info: 1. se-book-adapted/chapters/designPatterns
+2026-01-01T04:17:56.346Z - debug: Assets removed
+2026-01-01T04:18:20.599Z - info: [12:18:20] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/diagrams/designPatterns/command/whatItIs/~$commandCreator.pptx
+2026-01-01T04:18:20.600Z - info: Synchronizing opened pages list before reload
+2026-01-01T04:18:20.600Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T04:18:20.601Z - info: 1. se-book-adapted/chapters/designPatterns
+2026-01-01T04:18:21.694Z - info: Assets built
+2026-01-01T04:18:36.156Z - info: [12:18:36] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/diagrams/designPatterns/command/whatItIs/commandCreator.pptx
+2026-01-01T04:18:36.156Z - info: Synchronizing opened pages list before reload
+2026-01-01T04:18:36.157Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T04:18:36.157Z - info: 1. se-book-adapted/chapters/designPatterns
+2026-01-01T04:18:37.164Z - info: Assets built
+2026-01-01T04:22:37.039Z - info: [12:22:37] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/diagrams/designPatterns/command/whatItIs/commandCreator.pptx
+2026-01-01T04:22:37.040Z - info: Synchronizing opened pages list before reload
+2026-01-01T04:22:37.041Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T04:22:37.041Z - info: 1. se-book-adapted/chapters/designPatterns
+2026-01-01T04:22:38.044Z - info: Assets built
+2026-01-01T04:24:17.198Z - info: [12:24:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/designPatterns/command/what/images/commandCreator.png
+2026-01-01T04:24:17.199Z - info: Synchronizing opened pages list before reload
+2026-01-01T04:24:17.200Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T04:24:17.200Z - info: 1. se-book-adapted/chapters/designPatterns
+2026-01-01T04:24:18.212Z - info: Assets built
+2026-01-01T04:25:17.945Z - info: [12:25:17] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/diagrams/designPatterns/command/whatItIs/~$clientInvoker.pptx
+2026-01-01T04:25:17.946Z - info: Synchronizing opened pages list before reload
+2026-01-01T04:25:17.947Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T04:25:17.947Z - info: 1. se-book-adapted/chapters/designPatterns
+2026-01-01T04:25:19.050Z - info: Assets built
+2026-01-01T04:27:08.157Z - info: [12:27:08] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/diagrams/designPatterns/command/whatItIs/clientInvoker.pptx
+2026-01-01T04:27:08.159Z - info: Synchronizing opened pages list before reload
+2026-01-01T04:27:08.160Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T04:27:08.161Z - info: 1. se-book-adapted/chapters/designPatterns
+2026-01-01T04:27:09.165Z - info: Assets built
+2026-01-01T04:27:27.512Z - info: [12:27:27] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/designPatterns/command/what/images/clientInvoker.png
+2026-01-01T04:27:27.512Z - info: Synchronizing opened pages list before reload
+2026-01-01T04:27:27.512Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T04:27:27.512Z - info: 1. se-book-adapted/chapters/designPatterns
+2026-01-01T04:27:28.523Z - info: Assets built
+2026-01-01T04:38:49.899Z - info: [12:38:49] Reload for file deletion: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/diagrams/designPatterns/command/whatItIs/~$clientInvoker.pptx
+2026-01-01T04:38:49.902Z - info: Synchronizing opened pages list before reload
+2026-01-01T04:38:49.903Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T04:38:49.903Z - info: 1. se-book-adapted/chapters/designPatterns
+2026-01-01T04:38:51.013Z - debug: Assets removed
+2026-01-01T04:38:51.040Z - info: [12:38:51] Reload for file deletion: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/diagrams/designPatterns/command/whatItIs/~$commandCreator.pptx
+2026-01-01T04:38:51.041Z - info: Synchronizing opened pages list before reload
+2026-01-01T04:38:51.041Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T04:38:51.041Z - info: 1. se-book-adapted/chapters/designPatterns
+2026-01-01T04:38:52.147Z - debug: Assets removed
+2026-01-01T05:08:55.447Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week1/index as some of its dependencies were changed since the last visit
+2026-01-01T05:08:55.842Z - info: Site data built
+2026-01-01T05:08:55.842Z - info: Lazy website regeneration complete! Total build time: 0.397s
+2026-01-01T06:58:17.228Z - info: [14:58:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/courseOverview.md
+2026-01-01T06:58:17.244Z - info: Synchronizing opened pages list before reload
+2026-01-01T06:58:17.251Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T06:58:17.252Z - info: 1. schedule/week1/index
+2026-01-01T06:58:18.292Z - info: No pages needed to be rebuilt
+2026-01-01T06:59:15.712Z - info: [14:59:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/courseOverview.md
+2026-01-01T06:59:15.723Z - info: Synchronizing opened pages list before reload
+2026-01-01T06:59:15.724Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T06:59:15.731Z - info: 1. schedule/week1/index
+2026-01-01T06:59:16.767Z - info: No pages needed to be rebuilt
+2026-01-01T07:00:23.714Z - info: [15:00:23] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/courseOverview.md
+2026-01-01T07:00:23.717Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:00:23.731Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:00:23.735Z - info: 1. schedule/week1/index
+2026-01-01T07:00:24.742Z - info: No pages needed to be rebuilt
+2026-01-01T07:01:05.582Z - info: [15:01:05] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/courseOverview.md
+2026-01-01T07:01:05.583Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:01:05.583Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:01:05.583Z - info: 1. schedule/week1/index
+2026-01-01T07:01:06.595Z - info: No pages needed to be rebuilt
+2026-01-01T07:01:16.198Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/index as some of its dependencies were changed since the last visit
+2026-01-01T07:01:16.483Z - info: Site data built
+2026-01-01T07:01:16.483Z - info: Lazy website regeneration complete! Total build time: 0.285s
+2026-01-01T07:02:42.192Z - info: [15:02:42] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/courseOverview.md
+2026-01-01T07:02:42.222Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:02:42.226Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:02:42.227Z - info: 1. index
+2026-01-01T07:02:43.259Z - info: Rebuilding 1 pages
+2026-01-01T07:02:43.478Z - info: Site data built
+2026-01-01T07:02:43.478Z - info: Pages rebuilt
+2026-01-01T07:02:43.478Z - info: Website regeneration complete! Total build time: 0.239s
+2026-01-01T07:03:45.409Z - info: [15:03:45] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/courseOverview.md
+2026-01-01T07:03:45.409Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:03:45.409Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:03:45.409Z - info: 1. index
+2026-01-01T07:03:46.426Z - info: Rebuilding 1 pages
+2026-01-01T07:03:46.645Z - info: Site data built
+2026-01-01T07:03:46.646Z - info: Pages rebuilt
+2026-01-01T07:03:46.646Z - info: Website regeneration complete! Total build time: 0.223s
+2026-01-01T07:06:05.120Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exam-reference-sheet as some of its dependencies were changed since the last visit
+2026-01-01T07:06:05.280Z - info: Site data built
+2026-01-01T07:06:05.280Z - info: Lazy website regeneration complete! Total build time: 0.161s
+2026-01-01T07:10:19.631Z - info: [15:10:19] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/courseOverview.md
+2026-01-01T07:10:19.632Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:10:19.633Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:10:19.634Z - info: 1. admin/exam-reference-sheet
+2026-01-01T07:10:19.634Z - info: 2. index
+2026-01-01T07:10:20.640Z - info: Rebuilding 1 pages
+2026-01-01T07:10:20.817Z - info: Site data built
+2026-01-01T07:10:20.817Z - info: Pages rebuilt
+2026-01-01T07:10:20.817Z - info: Website regeneration complete! Total build time: 0.18s
+2026-01-01T07:10:56.403Z - info: [15:10:56] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/courseOverview.md
+2026-01-01T07:10:56.404Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:10:56.404Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:10:56.404Z - info: 1. index
+2026-01-01T07:10:57.416Z - info: Rebuilding 1 pages
+2026-01-01T07:10:57.620Z - info: Site data built
+2026-01-01T07:10:57.620Z - info: Pages rebuilt
+2026-01-01T07:10:57.620Z - info: Website regeneration complete! Total build time: 0.207s
+2026-01-01T07:11:04.428Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet as some of its dependencies were changed since the last visit
+2026-01-01T07:11:04.480Z - info: Site data built
+2026-01-01T07:11:04.481Z - info: Lazy website regeneration complete! Total build time: 0.053s
+2026-01-01T07:11:39.070Z - info: [15:11:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/courseOverview.md
+2026-01-01T07:11:39.075Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:11:39.077Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:11:39.078Z - info: 1. admin/uml-reference-sheet
+2026-01-01T07:11:40.082Z - info: No pages needed to be rebuilt
+2026-01-01T07:11:44.696Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/index as some of its dependencies were changed since the last visit
+2026-01-01T07:11:44.901Z - info: Site data built
+2026-01-01T07:11:44.901Z - info: Lazy website regeneration complete! Total build time: 0.205s
+2026-01-01T07:18:24.926Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/ip-w2 as some of its dependencies were changed since the last visit
+2026-01-01T07:18:25.926Z - info: Site data built
+2026-01-01T07:18:25.926Z - info: Lazy website regeneration complete! Total build time: 1.002s
+2026-01-01T07:19:48.180Z - info: [15:19:48] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/courseOverview.md
+2026-01-01T07:19:48.182Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:19:48.182Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:19:48.183Z - info: 1. admin/ip-w2
+2026-01-01T07:19:48.183Z - info: 2. admin/exam-reference-sheet
+2026-01-01T07:19:48.274Z - info: [15:19:48] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/_markbind/boilerplates/dukeNestedFragment.md
+2026-01-01T07:19:48.274Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:19:48.274Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:19:48.274Z - info: 1. admin/ip-w2
+2026-01-01T07:19:48.274Z - info: 2. admin/exam-reference-sheet
+2026-01-01T07:19:49.191Z - info: Rebuilding 1 pages
+2026-01-01T07:19:50.201Z - info: Site data built
+2026-01-01T07:19:50.201Z - info: Pages rebuilt
+2026-01-01T07:19:50.201Z - info: Website regeneration complete! Total build time: 1.012s
+2026-01-01T07:22:44.789Z - info: [15:22:44] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/_markbind/boilerplates/dukeNestedFragment.md
+2026-01-01T07:22:44.792Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:22:44.794Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:22:44.794Z - info: 1. admin/ip-w2
+2026-01-01T07:22:44.794Z - info: 2. admin/exam-reference-sheet
+2026-01-01T07:22:45.801Z - info: Rebuilding 1 pages
+2026-01-01T07:22:46.810Z - info: Site data built
+2026-01-01T07:22:46.810Z - info: Pages rebuilt
+2026-01-01T07:22:46.810Z - info: Website regeneration complete! Total build time: 1.012s
+2026-01-01T07:23:05.454Z - info: [15:23:05] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/_markbind/boilerplates/dukeNestedFragment.md
+2026-01-01T07:23:05.456Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:23:05.456Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:23:05.456Z - info: 1. admin/ip-w2
+2026-01-01T07:23:05.456Z - info: 2. admin/exam-reference-sheet
+2026-01-01T07:23:06.467Z - info: Rebuilding 1 pages
+2026-01-01T07:23:07.456Z - info: Site data built
+2026-01-01T07:23:07.456Z - info: Pages rebuilt
+2026-01-01T07:23:07.456Z - info: Website regeneration complete! Total build time: 0.992s
+2026-01-01T07:23:19.730Z - info: [15:23:19] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/_markbind/boilerplates/dukeNestedFragment.md
+2026-01-01T07:23:19.731Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:23:19.731Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:23:19.731Z - info: 1. admin/ip-w2
+2026-01-01T07:23:19.731Z - info: 2. admin/exam-reference-sheet
+2026-01-01T07:23:20.745Z - info: Rebuilding 1 pages
+2026-01-01T07:23:21.779Z - info: Site data built
+2026-01-01T07:23:21.779Z - info: Pages rebuilt
+2026-01-01T07:23:21.779Z - info: Website regeneration complete! Total build time: 1.036s
+2026-01-01T07:25:05.983Z - info: [15:25:05] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/_markbind/boilerplates/dukeNestedFragment.md
+2026-01-01T07:25:05.985Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:25:05.987Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:25:05.987Z - info: 1. admin/ip-w2
+2026-01-01T07:25:05.987Z - info: 2. admin/exam-reference-sheet
+2026-01-01T07:25:05.993Z - info: [15:25:05] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2026-01-01T07:25:05.995Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:25:05.995Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:25:05.995Z - info: 1. admin/ip-w2
+2026-01-01T07:25:05.995Z - info: 2. admin/exam-reference-sheet
+2026-01-01T07:25:07.002Z - info: Rebuilding 1 pages
+2026-01-01T07:25:08.157Z - info: Site data built
+2026-01-01T07:25:08.157Z - info: Pages rebuilt
+2026-01-01T07:25:08.158Z - info: Website regeneration complete! Total build time: 1.159s
+2026-01-01T07:25:39.858Z - info: [15:25:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2026-01-01T07:25:39.858Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:25:39.858Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:25:39.859Z - info: 1. admin/ip-w2
+2026-01-01T07:25:39.859Z - info: 2. admin/exam-reference-sheet
+2026-01-01T07:25:40.863Z - info: Rebuilding 1 pages
+2026-01-01T07:25:41.915Z - info: Site data built
+2026-01-01T07:25:41.915Z - info: Pages rebuilt
+2026-01-01T07:25:41.915Z - info: Website regeneration complete! Total build time: 1.053s
+2026-01-01T07:26:57.556Z - info: [15:26:57] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/_markbind/boilerplates/dukeNestedFragment.md
+2026-01-01T07:26:57.562Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:26:57.563Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:26:57.563Z - info: 1. admin/ip-w2
+2026-01-01T07:26:57.563Z - info: 2. admin/exam-reference-sheet
+2026-01-01T07:26:58.578Z - info: Rebuilding 1 pages
+2026-01-01T07:26:59.597Z - info: Site data built
+2026-01-01T07:26:59.597Z - info: Pages rebuilt
+2026-01-01T07:26:59.597Z - info: Website regeneration complete! Total build time: 1.022s
+2026-01-01T07:27:28.845Z - info: [15:27:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/_markbind/boilerplates/dukeNestedFragment.md
+2026-01-01T07:27:28.849Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:27:28.850Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:27:28.850Z - info: 1. admin/ip-w2
+2026-01-01T07:27:28.850Z - info: 2. admin/exam-reference-sheet
+2026-01-01T07:27:29.860Z - info: Rebuilding 1 pages
+2026-01-01T07:27:30.871Z - info: Site data built
+2026-01-01T07:27:30.872Z - info: Pages rebuilt
+2026-01-01T07:27:30.872Z - info: Website regeneration complete! Total build time: 1.015s
+2026-01-01T07:31:45.133Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/ip-w6 as some of its dependencies were changed since the last visit
+2026-01-01T07:31:45.749Z - info: Site data built
+2026-01-01T07:31:45.749Z - info: Lazy website regeneration complete! Total build time: 0.617s
+2026-01-01T07:31:51.910Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/ip-w5 as some of its dependencies were changed since the last visit
+2026-01-01T07:31:52.304Z - info: Site data built
+2026-01-01T07:31:52.304Z - info: Lazy website regeneration complete! Total build time: 0.395s
+2026-01-01T07:32:01.035Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/ip-w4 as some of its dependencies were changed since the last visit
+2026-01-01T07:32:01.532Z - info: Site data built
+2026-01-01T07:32:01.532Z - info: Lazy website regeneration complete! Total build time: 0.498s
+2026-01-01T07:32:19.545Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/ip-w3 as some of its dependencies were changed since the last visit
+2026-01-01T07:32:20.399Z - info: Site data built
+2026-01-01T07:32:20.399Z - info: Lazy website regeneration complete! Total build time: 0.855s
+2026-01-01T07:35:29.712Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-w6 as some of its dependencies were changed since the last visit
+2026-01-01T07:35:30.691Z - info: Site data built
+2026-01-01T07:35:30.691Z - info: Lazy website regeneration complete! Total build time: 0.98s
+2026-01-01T07:36:46.032Z - info: [15:36:46] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2026-01-01T07:36:46.034Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:36:46.035Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:36:46.035Z - info: 1. admin/tp-w6
+2026-01-01T07:36:47.046Z - info: Rebuilding 1 pages
+2026-01-01T07:36:48.009Z - info: Site data built
+2026-01-01T07:36:48.009Z - info: Pages rebuilt
+2026-01-01T07:36:48.009Z - info: Website regeneration complete! Total build time: 0.968s
+2026-01-01T07:37:03.118Z - info: [15:37:03] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2026-01-01T07:37:03.119Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:37:03.119Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:37:03.119Z - info: 1. admin/tp-w6
+2026-01-01T07:37:04.135Z - info: Rebuilding 1 pages
+2026-01-01T07:37:05.077Z - info: Site data built
+2026-01-01T07:37:05.078Z - info: Pages rebuilt
+2026-01-01T07:37:05.078Z - info: Website regeneration complete! Total build time: 0.944s
+2026-01-01T07:37:23.516Z - info: [15:37:23] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2026-01-01T07:37:23.516Z - info: Synchronizing opened pages list before reload
+2026-01-01T07:37:23.516Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T07:37:23.517Z - info: 1. admin/tp-w6
+2026-01-01T07:37:24.523Z - info: Rebuilding 1 pages
+2026-01-01T07:37:25.471Z - info: Site data built
+2026-01-01T07:37:25.471Z - info: Pages rebuilt
+2026-01-01T07:37:25.471Z - info: Website regeneration complete! Total build time: 0.95s
+2026-01-01T08:58:34.139Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown as some of its dependencies were changed since the last visit
+2026-01-01T08:58:35.664Z - debug:  
+2026-01-01T08:58:35.738Z - info: Site data built
+2026-01-01T08:58:35.739Z - info: Lazy website regeneration complete! Total build time: 1.601s
+2026-01-01T08:59:32.414Z - info: [16:59:32] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T08:59:32.422Z - info: Synchronizing opened pages list before reload
+2026-01-01T08:59:32.426Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T08:59:32.426Z - info: 1. admin/gradeBreakdown
+2026-01-01T08:59:33.445Z - info: Rebuilding 1 pages
+2026-01-01T08:59:34.174Z - info: Site data built
+2026-01-01T08:59:34.174Z - info: Pages rebuilt
+2026-01-01T08:59:34.174Z - info: Website regeneration complete! Total build time: 0.732s
+2026-01-01T08:59:46.569Z - info: [16:59:46] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T08:59:46.569Z - info: Synchronizing opened pages list before reload
+2026-01-01T08:59:46.569Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T08:59:46.569Z - info: 1. admin/gradeBreakdown
+2026-01-01T08:59:47.582Z - info: Rebuilding 1 pages
+2026-01-01T08:59:48.303Z - info: Site data built
+2026-01-01T08:59:48.303Z - info: Pages rebuilt
+2026-01-01T08:59:48.303Z - info: Website regeneration complete! Total build time: 0.723s
+2026-01-01T09:00:31.069Z - info: [17:00:31] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:00:31.069Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:00:31.069Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:00:31.069Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:00:32.078Z - info: Rebuilding 1 pages
+2026-01-01T09:00:32.913Z - info: Site data built
+2026-01-01T09:00:32.913Z - info: Pages rebuilt
+2026-01-01T09:00:32.913Z - info: Website regeneration complete! Total build time: 0.838s
+2026-01-01T09:00:36.223Z - info: [17:00:36] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:00:36.223Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:00:36.224Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:00:36.224Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:00:37.234Z - info: Rebuilding 1 pages
+2026-01-01T09:00:37.790Z - info: Site data built
+2026-01-01T09:00:37.790Z - info: Pages rebuilt
+2026-01-01T09:00:37.790Z - info: Website regeneration complete! Total build time: 0.558s
+2026-01-01T09:14:17.366Z - info: [17:14:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:14:17.383Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:14:17.388Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:14:17.389Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:14:18.397Z - info: Rebuilding 1 pages
+2026-01-01T09:14:19.124Z - info: Site data built
+2026-01-01T09:14:19.125Z - info: Pages rebuilt
+2026-01-01T09:14:19.125Z - info: Website regeneration complete! Total build time: 0.73s
+2026-01-01T09:14:40.315Z - info: [17:14:40] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:14:40.316Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:14:40.317Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:14:40.317Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:14:41.343Z - info: Rebuilding 1 pages
+2026-01-01T09:14:42.026Z - info: Site data built
+2026-01-01T09:14:42.026Z - info: Pages rebuilt
+2026-01-01T09:14:42.026Z - info: Website regeneration complete! Total build time: 0.694s
+2026-01-01T09:18:03.122Z - info: [17:18:03] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:18:03.126Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:18:03.127Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:18:03.128Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:18:04.135Z - info: Rebuilding 1 pages
+2026-01-01T09:18:04.840Z - info: Site data built
+2026-01-01T09:18:04.840Z - info: Pages rebuilt
+2026-01-01T09:18:04.840Z - info: Website regeneration complete! Total build time: 0.707s
+2026-01-01T09:18:49.563Z - info: [17:18:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:18:49.564Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:18:49.565Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:18:49.565Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:18:50.575Z - info: Rebuilding 1 pages
+2026-01-01T09:18:51.269Z - info: Site data built
+2026-01-01T09:18:51.269Z - info: Pages rebuilt
+2026-01-01T09:18:51.269Z - info: Website regeneration complete! Total build time: 0.695s
+2026-01-01T09:20:25.394Z - info: [17:20:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:20:25.412Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:20:25.414Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:20:25.414Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:20:26.427Z - info: Rebuilding 1 pages
+2026-01-01T09:20:27.116Z - info: Site data built
+2026-01-01T09:20:27.116Z - info: Pages rebuilt
+2026-01-01T09:20:27.116Z - info: Website regeneration complete! Total build time: 0.693s
+2026-01-01T09:20:41.438Z - info: [17:20:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:20:41.439Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:20:41.439Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:20:41.439Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:20:42.450Z - info: Rebuilding 1 pages
+2026-01-01T09:20:43.135Z - info: Site data built
+2026-01-01T09:20:43.135Z - info: Pages rebuilt
+2026-01-01T09:20:43.135Z - info: Website regeneration complete! Total build time: 0.688s
+2026-01-01T09:22:44.095Z - info: [17:22:44] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:22:44.098Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:22:44.099Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:22:44.099Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:22:45.109Z - info: Rebuilding 1 pages
+2026-01-01T09:22:45.788Z - info: Site data built
+2026-01-01T09:22:45.788Z - info: Pages rebuilt
+2026-01-01T09:22:45.788Z - info: Website regeneration complete! Total build time: 0.682s
+2026-01-01T09:22:52.634Z - info: [17:22:52] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:22:52.635Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:22:52.635Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:22:52.636Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:22:53.642Z - info: Rebuilding 1 pages
+2026-01-01T09:22:54.195Z - info: Site data built
+2026-01-01T09:22:54.195Z - info: Pages rebuilt
+2026-01-01T09:22:54.195Z - info: Website regeneration complete! Total build time: 0.554s
+2026-01-01T09:23:01.241Z - info: [17:23:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:23:01.241Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:23:01.241Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:23:01.241Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:23:02.251Z - info: Rebuilding 1 pages
+2026-01-01T09:23:02.904Z - info: Site data built
+2026-01-01T09:23:02.904Z - info: Pages rebuilt
+2026-01-01T09:23:02.904Z - info: Website regeneration complete! Total build time: 0.656s
+2026-01-01T09:23:33.249Z - info: [17:23:33] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:23:33.251Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:23:33.252Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:23:33.252Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:23:34.258Z - info: Rebuilding 1 pages
+2026-01-01T09:23:34.971Z - info: Site data built
+2026-01-01T09:23:34.971Z - info: Pages rebuilt
+2026-01-01T09:23:34.971Z - info: Website regeneration complete! Total build time: 0.716s
+2026-01-01T09:27:29.396Z - info: [17:27:29] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:27:29.398Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:27:29.398Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:27:29.398Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:27:30.410Z - info: Rebuilding 1 pages
+2026-01-01T09:27:31.141Z - info: Site data built
+2026-01-01T09:27:31.142Z - info: Pages rebuilt
+2026-01-01T09:27:31.142Z - info: Website regeneration complete! Total build time: 0.736s
+2026-01-01T09:27:35.167Z - info: [17:27:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:27:35.167Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:27:35.168Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:27:35.168Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:27:36.180Z - info: Rebuilding 1 pages
+2026-01-01T09:27:36.749Z - info: Site data built
+2026-01-01T09:27:36.749Z - info: Pages rebuilt
+2026-01-01T09:27:36.749Z - info: Website regeneration complete! Total build time: 0.571s
+2026-01-01T09:27:44.102Z - info: [17:27:44] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:27:44.103Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:27:44.103Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:27:44.103Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:27:45.114Z - info: Rebuilding 1 pages
+2026-01-01T09:27:45.783Z - info: Site data built
+2026-01-01T09:27:45.783Z - info: Pages rebuilt
+2026-01-01T09:27:45.783Z - info: Website regeneration complete! Total build time: 0.672s
+2026-01-01T09:27:56.163Z - info: [17:27:56] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:27:56.163Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:27:56.163Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:27:56.163Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:27:57.171Z - info: Rebuilding 1 pages
+2026-01-01T09:27:57.826Z - info: Site data built
+2026-01-01T09:27:57.826Z - info: Pages rebuilt
+2026-01-01T09:27:57.826Z - info: Website regeneration complete! Total build time: 0.658s
+2026-01-01T09:28:35.924Z - info: [17:28:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:28:35.926Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:28:35.927Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:28:35.927Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:28:36.932Z - info: Rebuilding 1 pages
+2026-01-01T09:28:37.624Z - info: Site data built
+2026-01-01T09:28:37.624Z - info: Pages rebuilt
+2026-01-01T09:28:37.624Z - info: Website regeneration complete! Total build time: 0.694s
+2026-01-01T09:29:46.785Z - info: [17:29:46] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:29:46.789Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:29:46.793Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:29:46.794Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:29:47.806Z - info: Rebuilding 1 pages
+2026-01-01T09:29:48.524Z - info: Site data built
+2026-01-01T09:29:48.524Z - info: Pages rebuilt
+2026-01-01T09:29:48.524Z - info: Website regeneration complete! Total build time: 0.72s
+2026-01-01T09:31:24.173Z - info: [17:31:24] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:31:24.178Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:31:24.181Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:31:24.181Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:31:25.193Z - info: Rebuilding 1 pages
+2026-01-01T09:31:25.898Z - info: Site data built
+2026-01-01T09:31:25.898Z - info: Pages rebuilt
+2026-01-01T09:31:25.898Z - info: Website regeneration complete! Total build time: 0.709s
+2026-01-01T09:34:15.202Z - info: [17:34:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:34:15.209Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:34:15.212Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:34:15.213Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:34:16.222Z - info: Rebuilding 1 pages
+2026-01-01T09:34:17.019Z - info: Site data built
+2026-01-01T09:34:17.019Z - info: Pages rebuilt
+2026-01-01T09:34:17.019Z - info: Website regeneration complete! Total build time: 0.799s
+2026-01-01T09:36:40.063Z - info: [17:36:40] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:36:40.069Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:36:40.071Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:36:40.071Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:36:41.078Z - info: Rebuilding 1 pages
+2026-01-01T09:36:41.755Z - info: Site data built
+2026-01-01T09:36:41.755Z - info: Pages rebuilt
+2026-01-01T09:36:41.755Z - info: Website regeneration complete! Total build time: 0.68s
+2026-01-01T09:39:00.867Z - info: [17:39:00] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:39:00.869Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:39:00.870Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:39:00.870Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:39:01.880Z - info: Rebuilding 1 pages
+2026-01-01T09:39:02.570Z - info: Site data built
+2026-01-01T09:39:02.571Z - info: Pages rebuilt
+2026-01-01T09:39:02.571Z - info: Website regeneration complete! Total build time: 0.695s
+2026-01-01T09:40:35.395Z - info: [17:40:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:40:35.398Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:40:35.399Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:40:35.399Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:40:36.404Z - info: Rebuilding 1 pages
+2026-01-01T09:40:37.101Z - info: Site data built
+2026-01-01T09:40:37.101Z - info: Pages rebuilt
+2026-01-01T09:40:37.101Z - info: Website regeneration complete! Total build time: 0.699s
+2026-01-01T09:42:58.827Z - info: [17:42:58] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:42:58.830Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:42:58.831Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:42:58.831Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:42:59.841Z - info: Rebuilding 1 pages
+2026-01-01T09:43:00.545Z - info: Site data built
+2026-01-01T09:43:00.545Z - info: Pages rebuilt
+2026-01-01T09:43:00.545Z - info: Website regeneration complete! Total build time: 0.706s
+2026-01-01T09:44:55.140Z - info: [17:44:55] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:44:55.141Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:44:55.142Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:44:55.142Z - info: 1. admin/gradeBreakdown
+2026-01-01T09:44:56.161Z - info: Rebuilding 1 pages
+2026-01-01T09:44:56.898Z - info: Site data built
+2026-01-01T09:44:56.898Z - info: Pages rebuilt
+2026-01-01T09:44:56.898Z - info: Website regeneration complete! Total build time: 0.744s
+2026-01-01T09:45:43.810Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week2/index as some of its dependencies were changed since the last visit
+2026-01-01T09:45:44.130Z - info: Site data built
+2026-01-01T09:45:44.130Z - info: Lazy website regeneration complete! Total build time: 0.321s
+2026-01-01T09:46:40.505Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/index as some of its dependencies were changed since the last visit
+2026-01-01T09:46:40.888Z - info: Site data built
+2026-01-01T09:46:40.888Z - info: Lazy website regeneration complete! Total build time: 0.384s
+2026-01-01T09:48:10.585Z - info: [17:48:10] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/notices-cs2103-fragment.md
+2026-01-01T09:48:10.590Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:48:10.591Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:48:10.592Z - info: 1. schedule/week3/index
+2026-01-01T09:48:11.608Z - info: Rebuilding 1 pages
+2026-01-01T09:48:12.568Z - info: Site data built
+2026-01-01T09:48:12.568Z - info: Pages rebuilt
+2026-01-01T09:48:12.568Z - info: Website regeneration complete! Total build time: 0.963s
+2026-01-01T09:48:33.334Z - info: [17:48:33] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/notices-cs2103-fragment.md
+2026-01-01T09:48:33.335Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:48:33.335Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:48:33.335Z - info: 1. schedule/week3/index
+2026-01-01T09:48:34.352Z - info: Rebuilding 1 pages
+2026-01-01T09:48:34.777Z - info: Site data built
+2026-01-01T09:48:34.777Z - info: Pages rebuilt
+2026-01-01T09:48:34.777Z - info: Website regeneration complete! Total build time: 0.428s
+2026-01-01T09:50:34.550Z - info: [17:50:34] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/notices-cs2103-fragment.md
+2026-01-01T09:50:34.559Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:50:34.560Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:50:34.560Z - info: 1. schedule/week3/index
+2026-01-01T09:50:35.580Z - info: Rebuilding 1 pages
+2026-01-01T09:50:36.018Z - info: Site data built
+2026-01-01T09:50:36.018Z - info: Pages rebuilt
+2026-01-01T09:50:36.018Z - info: Website regeneration complete! Total build time: 0.441s
+2026-01-01T09:50:49.128Z - info: [17:50:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/notices-cs2103-fragment.md
+2026-01-01T09:50:49.129Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:50:49.129Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:50:49.129Z - info: 1. schedule/week3/index
+2026-01-01T09:50:50.150Z - info: Rebuilding 1 pages
+2026-01-01T09:50:50.593Z - info: Site data built
+2026-01-01T09:50:50.593Z - info: Pages rebuilt
+2026-01-01T09:50:50.593Z - info: Website regeneration complete! Total build time: 0.446s
+2026-01-01T09:51:03.594Z - info: [17:51:03] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/notices-cs2103-fragment.md
+2026-01-01T09:51:03.594Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:51:03.594Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:51:03.594Z - info: 1. schedule/week3/index
+2026-01-01T09:51:04.612Z - info: Rebuilding 1 pages
+2026-01-01T09:51:05.042Z - info: Site data built
+2026-01-01T09:51:05.042Z - info: Pages rebuilt
+2026-01-01T09:51:05.042Z - info: Website regeneration complete! Total build time: 0.434s
+2026-01-01T09:51:43.614Z - info: [17:51:43] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/notices-cs2103-fragment.md
+2026-01-01T09:51:43.618Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:51:43.619Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:51:43.619Z - info: 1. schedule/week3/index
+2026-01-01T09:51:44.625Z - info: Rebuilding 1 pages
+2026-01-01T09:51:45.075Z - info: Site data built
+2026-01-01T09:51:45.075Z - info: Pages rebuilt
+2026-01-01T09:51:45.075Z - info: Website regeneration complete! Total build time: 0.452s
+2026-01-01T09:52:45.305Z - info: [17:52:45] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:52:45.320Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:52:45.322Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:52:45.322Z - info: 1. schedule/week3/index
+2026-01-01T09:52:46.331Z - info: Rebuilding 1 pages
+2026-01-01T09:52:46.783Z - info: Site data built
+2026-01-01T09:52:46.783Z - info: Pages rebuilt
+2026-01-01T09:52:46.783Z - info: Website regeneration complete! Total build time: 0.456s
+2026-01-01T09:53:04.139Z - info: [17:53:04] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown.md
+2026-01-01T09:53:04.140Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:53:04.140Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:53:04.141Z - info: 1. schedule/week3/index
+2026-01-01T09:53:05.155Z - info: Rebuilding 1 pages
+2026-01-01T09:53:05.541Z - info: Site data built
+2026-01-01T09:53:05.541Z - info: Pages rebuilt
+2026-01-01T09:53:05.541Z - info: Website regeneration complete! Total build time: 0.388s
+2026-01-01T09:58:29.957Z - info: [17:58:29] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/notices-cs2103-fragment.md
+2026-01-01T09:58:29.958Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:58:29.959Z - info: No pages are currently opened
+2026-01-01T09:58:30.065Z - info: [17:58:30] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/notices-cs2103-fragment.md
+2026-01-01T09:58:30.065Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:58:30.065Z - info: No pages are currently opened
+2026-01-01T09:58:30.963Z - info: No pages needed to be rebuilt
+2026-01-01T09:58:35.856Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/index as some of its dependencies were changed since the last visit
+2026-01-01T09:58:36.271Z - info: Site data built
+2026-01-01T09:58:36.271Z - info: Lazy website regeneration complete! Total build time: 0.415s
+2026-01-01T09:59:25.880Z - info: [17:59:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/variables.md
+2026-01-01T09:59:25.881Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:59:25.882Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:59:25.882Z - info: 1. schedule/week3/index
+2026-01-01T09:59:26.923Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-01T09:59:26.924Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-01T09:59:26.951Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2026-01-01T09:59:26.953Z - info: Rebuilding 1 pages
+2026-01-01T09:59:27.328Z - info: Site data built
+2026-01-01T09:59:27.328Z - info: Pages rebuilt
+2026-01-01T09:59:27.328Z - info: Website regeneration complete! Total build time: 0.43s
+2026-01-01T09:59:39.558Z - info: [17:59:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/notices-cs2103-fragment.md
+2026-01-01T09:59:39.559Z - info: Synchronizing opened pages list before reload
+2026-01-01T09:59:39.559Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T09:59:39.559Z - info: 1. schedule/week3/index
+2026-01-01T09:59:40.566Z - info: Rebuilding 1 pages
+2026-01-01T09:59:40.967Z - info: Site data built
+2026-01-01T09:59:40.967Z - info: Pages rebuilt
+2026-01-01T09:59:40.967Z - info: Website regeneration complete! Total build time: 0.402s
+2026-01-01T10:02:48.042Z - info: [18:02:48] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/common-notices-fragment.md
+2026-01-01T10:02:48.045Z - info: Synchronizing opened pages list before reload
+2026-01-01T10:02:48.046Z - info: No pages are currently opened
+2026-01-01T10:02:49.053Z - info: No pages needed to be rebuilt
+2026-01-01T10:02:53.953Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/index as some of its dependencies were changed since the last visit
+2026-01-01T10:02:54.348Z - info: Site data built
+2026-01-01T10:02:54.348Z - info: Lazy website regeneration complete! Total build time: 0.396s
+2026-01-01T10:02:59.277Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutorials as some of its dependencies were changed since the last visit
+2026-01-01T10:02:59.630Z - info: Site data built
+2026-01-01T10:02:59.630Z - info: Lazy website regeneration complete! Total build time: 0.353s
+2026-01-01T10:52:17.072Z - info: [18:52:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/timetables-fragment.md
+2026-01-01T10:52:17.079Z - info: Synchronizing opened pages list before reload
+2026-01-01T10:52:17.081Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T10:52:17.081Z - info: 1. admin/tutorials
+2026-01-01T10:52:18.137Z - info: Rebuilding 1 pages
+2026-01-01T10:52:18.587Z - info: Site data built
+2026-01-01T10:52:18.587Z - info: Pages rebuilt
+2026-01-01T10:52:18.587Z - info: Website regeneration complete! Total build time: 0.476s
+2026-01-01T10:53:58.811Z - info: [18:53:58] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2113/timetables-fragment.md
+2026-01-01T10:53:58.825Z - info: Synchronizing opened pages list before reload
+2026-01-01T10:53:58.826Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T10:53:58.827Z - info: 1. admin/tutorials
+2026-01-01T10:53:59.843Z - info: Assets built
+2026-01-01T10:55:19.607Z - info: Website generation started at 18:55:18
+2026-01-01T10:55:20.151Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-01T10:55:20.151Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-01T10:55:20.171Z - info: Building assets...
+2026-01-01T10:55:23.043Z - info: Assets built
+2026-01-01T10:55:23.044Z - info: Generating pages...
+2026-01-01T10:55:30.834Z - debug:  
+2026-01-01T10:55:30.834Z - debug:  
+2026-01-01T10:55:30.834Z - debug:  
+2026-01-01T10:55:30.835Z - debug:  
+2026-01-01T10:55:30.835Z - debug:  
+2026-01-01T10:55:30.835Z - debug:  
+2026-01-01T10:55:30.835Z - debug:  
+2026-01-01T10:55:30.835Z - debug:  
+2026-01-01T10:55:30.835Z - debug:  
+2026-01-01T10:55:30.835Z - debug:  
+2026-01-01T10:55:30.835Z - debug:  
+2026-01-01T10:55:30.903Z - debug:  
+2026-01-01T10:55:34.341Z - debug:  
+2026-01-01T10:55:34.652Z - debug:  
+2026-01-01T10:55:34.731Z - debug:  
+2026-01-01T10:55:34.736Z - debug:  
+2026-01-01T10:55:34.768Z - debug:  
+2026-01-01T10:55:34.831Z - debug:  
+2026-01-01T10:55:44.793Z - debug:  
+2026-01-01T10:56:29.843Z - debug:  
+2026-01-01T10:56:29.843Z - debug:  
+2026-01-01T10:56:37.083Z - debug:  
+2026-01-01T10:56:52.516Z - debug:  
+2026-01-01T10:56:52.913Z - debug:  
+2026-01-01T10:56:59.962Z - info: Pages built
+2026-01-01T10:57:00.045Z - info: Site data built
+2026-01-01T10:57:00.045Z - info: Website generation complete! Total build time: 101.572s
+2026-01-01T10:57:00.045Z - info: Build success!
+2026-01-01T10:57:24.097Z - info: The website has been deployed at: https://nus-cs2103-ay2526-s2.github.io/website
+2026-01-01T14:40:40.329Z - info: Website generation (lazy) started at 22:40:39
+2026-01-01T14:40:40.771Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-01T14:40:40.772Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-01T14:40:40.791Z - info: Building assets...
+2026-01-01T14:40:44.099Z - info: Assets built
+2026-01-01T14:40:44.100Z - info: Generating landing page...
+2026-01-01T14:40:44.372Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-01-01T14:40:44.439Z - info: Site data built
+2026-01-01T14:40:44.440Z - info: Website generation (lazy) complete! Total build time: 5.405s
+2026-01-01T14:40:44.450Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-01-01T14:40:44.451Z - info: Press CTRL+C to stop ...
+2026-01-01T14:43:25.281Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index as some of its dependencies were changed since the last visit
+2026-01-01T14:43:25.469Z - info: Site data built
+2026-01-01T14:43:25.469Z - info: Lazy website regeneration complete! Total build time: 0.189s
+2026-01-01T14:43:38.409Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/modeling as some of its dependencies were changed since the last visit
+2026-01-01T14:43:41.554Z - debug:  
+2026-01-01T14:43:41.556Z - debug:  
+2026-01-01T14:43:41.599Z - debug:  
+2026-01-01T14:43:41.666Z - debug:  
+2026-01-01T14:43:41.667Z - debug:  
+2026-01-01T14:43:41.701Z - debug:  
+2026-01-01T14:43:41.708Z - debug:  
+2026-01-01T14:43:41.708Z - debug:  
+2026-01-01T14:43:41.735Z - debug:  
+2026-01-01T14:43:41.741Z - debug:  
+2026-01-01T14:43:41.741Z - debug:  
+2026-01-01T14:43:41.878Z - info: Site data built
+2026-01-01T14:43:41.878Z - info: Lazy website regeneration complete! Total build time: 3.469s
+2026-01-01T14:53:29.440Z - info: [22:53:29] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/introduction/text.md
+2026-01-01T14:53:29.442Z - info: Synchronizing opened pages list before reload
+2026-01-01T14:53:29.443Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T14:53:29.443Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T14:53:29.538Z - info: [22:53:29] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingStructures/objectDiagrams/text.md
+2026-01-01T14:53:29.539Z - info: Synchronizing opened pages list before reload
+2026-01-01T14:53:29.539Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T14:53:29.539Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T14:53:30.453Z - info: Rebuilding 1 pages
+2026-01-01T14:53:31.229Z - info: Site data built
+2026-01-01T14:53:31.229Z - info: Pages rebuilt
+2026-01-01T14:53:31.229Z - info: Website regeneration complete! Total build time: 0.778s
+2026-01-01T14:55:06.613Z - info: [22:55:06] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingStructures/objectDiagrams/text.md
+2026-01-01T14:55:06.617Z - info: Synchronizing opened pages list before reload
+2026-01-01T14:55:06.617Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T14:55:06.618Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T14:55:07.623Z - info: Rebuilding 1 pages
+2026-01-01T14:55:08.381Z - info: Site data built
+2026-01-01T14:55:08.382Z - info: Pages rebuilt
+2026-01-01T14:55:08.382Z - info: Website regeneration complete! Total build time: 0.761s
+2026-01-01T14:55:36.686Z - info: [22:55:36] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingStructures/objectDiagrams/text.md
+2026-01-01T14:55:36.687Z - info: Synchronizing opened pages list before reload
+2026-01-01T14:55:36.687Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T14:55:36.688Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T14:55:37.702Z - info: Rebuilding 1 pages
+2026-01-01T14:55:38.566Z - info: Site data built
+2026-01-01T14:55:38.566Z - info: Pages rebuilt
+2026-01-01T14:55:38.566Z - info: Website regeneration complete! Total build time: 0.867s
+2026-01-01T14:56:48.325Z - info: [22:56:48] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingStructures/objectDiagrams/text.md
+2026-01-01T14:56:48.329Z - info: Synchronizing opened pages list before reload
+2026-01-01T14:56:48.332Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T14:56:48.334Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T14:56:49.339Z - info: Rebuilding 1 pages
+2026-01-01T14:56:50.168Z - info: Site data built
+2026-01-01T14:56:50.169Z - info: Pages rebuilt
+2026-01-01T14:56:50.169Z - info: Website regeneration complete! Total build time: 0.832s
+2026-01-01T14:59:51.348Z - info: [22:59:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/objects/text.md
+2026-01-01T14:59:51.350Z - info: Synchronizing opened pages list before reload
+2026-01-01T14:59:51.350Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T14:59:51.350Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T14:59:51.352Z - info: [22:59:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingStructures/objectDiagrams/text.md
+2026-01-01T14:59:51.352Z - info: Synchronizing opened pages list before reload
+2026-01-01T14:59:51.352Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T14:59:51.352Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T14:59:52.361Z - info: Rebuilding 1 pages
+2026-01-01T14:59:53.144Z - info: Site data built
+2026-01-01T14:59:53.144Z - info: Pages rebuilt
+2026-01-01T14:59:53.144Z - info: Website regeneration complete! Total build time: 0.785s
+2026-01-01T15:03:01.171Z - info: [23:03:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/objects/text.md
+2026-01-01T15:03:01.173Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:03:01.174Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:03:01.174Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:03:02.183Z - info: Rebuilding 1 pages
+2026-01-01T15:03:02.987Z - info: Site data built
+2026-01-01T15:03:02.987Z - info: Pages rebuilt
+2026-01-01T15:03:02.987Z - info: Website regeneration complete! Total build time: 0.806s
+2026-01-01T15:03:18.882Z - info: [23:03:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/objects/text.md
+2026-01-01T15:03:18.882Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:03:18.882Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:03:18.883Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:03:19.888Z - info: Rebuilding 1 pages
+2026-01-01T15:03:20.685Z - info: Site data built
+2026-01-01T15:03:20.686Z - info: Pages rebuilt
+2026-01-01T15:03:20.686Z - info: Website regeneration complete! Total build time: 0.8s
+2026-01-01T15:04:47.616Z - info: [23:04:47] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/objects/text.md
+2026-01-01T15:04:47.618Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:04:47.618Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:04:47.618Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:04:48.627Z - info: Rebuilding 1 pages
+2026-01-01T15:04:49.405Z - info: Site data built
+2026-01-01T15:04:49.405Z - info: Pages rebuilt
+2026-01-01T15:04:49.405Z - info: Website regeneration complete! Total build time: 0.782s
+2026-01-01T15:05:28.499Z - info: [23:05:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/objects/text.md
+2026-01-01T15:05:28.500Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:05:28.500Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:05:28.500Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:05:29.519Z - info: Rebuilding 1 pages
+2026-01-01T15:05:30.329Z - info: Site data built
+2026-01-01T15:05:30.329Z - info: Pages rebuilt
+2026-01-01T15:05:30.329Z - info: Website regeneration complete! Total build time: 0.814s
+2026-01-01T15:05:49.763Z - info: [23:05:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/objects/text.md
+2026-01-01T15:05:49.765Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:05:49.765Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:05:49.765Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:05:50.772Z - info: Rebuilding 1 pages
+2026-01-01T15:05:51.535Z - info: Site data built
+2026-01-01T15:05:51.535Z - info: Pages rebuilt
+2026-01-01T15:05:51.535Z - info: Website regeneration complete! Total build time: 0.765s
+2026-01-01T15:06:38.707Z - info: [23:06:38] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/introduction/text.md
+2026-01-01T15:06:38.709Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:06:38.710Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:06:38.710Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:06:39.717Z - info: Rebuilding 1 pages
+2026-01-01T15:06:40.497Z - info: Site data built
+2026-01-01T15:06:40.497Z - info: Pages rebuilt
+2026-01-01T15:06:40.497Z - info: Website regeneration complete! Total build time: 0.782s
+2026-01-01T15:07:51.398Z - info: [23:07:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/associations/text.md
+2026-01-01T15:07:51.400Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:07:51.400Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:07:51.400Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:07:51.500Z - info: [23:07:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingStructures/objectDiagrams/text.md
+2026-01-01T15:07:51.501Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:07:51.501Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:07:51.501Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:07:52.419Z - info: Rebuilding 1 pages
+2026-01-01T15:07:53.251Z - info: Site data built
+2026-01-01T15:07:53.252Z - info: Pages rebuilt
+2026-01-01T15:07:53.252Z - info: Website regeneration complete! Total build time: 0.836s
+2026-01-01T15:10:25.147Z - info: [23:10:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/associations/text.md
+2026-01-01T15:10:25.148Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:10:25.149Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:10:25.149Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:10:26.186Z - info: Rebuilding 1 pages
+2026-01-01T15:10:26.936Z - info: Site data built
+2026-01-01T15:10:26.936Z - info: Pages rebuilt
+2026-01-01T15:10:26.936Z - info: Website regeneration complete! Total build time: 0.763s
+2026-01-01T15:11:23.568Z - info: [23:11:23] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/objects/text.md
+2026-01-01T15:11:23.573Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:11:23.575Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:11:23.575Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:11:24.584Z - info: Rebuilding 1 pages
+2026-01-01T15:11:25.445Z - info: Site data built
+2026-01-01T15:11:25.445Z - info: Pages rebuilt
+2026-01-01T15:11:25.445Z - info: Website regeneration complete! Total build time: 0.865s
+2026-01-01T15:12:10.302Z - info: [23:12:10] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/objects/text.md
+2026-01-01T15:12:10.303Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:12:10.304Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:12:10.304Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:12:11.307Z - info: Rebuilding 1 pages
+2026-01-01T15:12:12.113Z - info: Site data built
+2026-01-01T15:12:12.113Z - info: Pages rebuilt
+2026-01-01T15:12:12.113Z - info: Website regeneration complete! Total build time: 0.808s
+2026-01-01T15:12:52.063Z - info: [23:12:52] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/objects/text.md
+2026-01-01T15:12:52.069Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:12:52.071Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:12:52.071Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:12:53.085Z - info: Rebuilding 1 pages
+2026-01-01T15:12:53.954Z - info: Site data built
+2026-01-01T15:12:53.954Z - info: Pages rebuilt
+2026-01-01T15:12:53.954Z - info: Website regeneration complete! Total build time: 0.876s
+2026-01-01T15:15:46.662Z - info: [23:15:46] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/objects/text.md
+2026-01-01T15:15:46.665Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:15:46.668Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:15:46.668Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:15:47.678Z - info: Rebuilding 1 pages
+2026-01-01T15:15:48.458Z - info: Site data built
+2026-01-01T15:15:48.458Z - info: Pages rebuilt
+2026-01-01T15:15:48.458Z - info: Website regeneration complete! Total build time: 0.782s
+2026-01-01T15:19:34.195Z - info: [23:19:34] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/associations/text.md
+2026-01-01T15:19:34.196Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:19:34.196Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:19:34.196Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:19:35.202Z - info: Rebuilding 1 pages
+2026-01-01T15:19:36.064Z - info: Site data built
+2026-01-01T15:19:36.064Z - info: Pages rebuilt
+2026-01-01T15:19:36.064Z - info: Website regeneration complete! Total build time: 0.865s
+2026-01-01T15:20:34.437Z - info: [23:20:34] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/objectDiagrams/associations/text.md
+2026-01-01T15:20:34.449Z - info: Synchronizing opened pages list before reload
+2026-01-01T15:20:34.453Z - info: Current opened pages, from most-to-least recent:
+2026-01-01T15:20:34.454Z - info: 1. se-book-adapted/chapters/modeling
+2026-01-01T15:20:35.468Z - info: Rebuilding 1 pages
+2026-01-01T15:20:36.368Z - info: Site data built
+2026-01-01T15:20:36.368Z - info: Pages rebuilt
+2026-01-01T15:20:36.368Z - info: Website regeneration complete! Total build time: 0.903s
