@@ -912,3 +912,38 @@ Some diagram description contains errors
 2026-01-01T18:39:53.845Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/book/_markbind/variables.md'
 2026-01-01T18:39:53.845Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/_markbind/variables.md'
 2026-01-01T18:39:53.864Z - info: Building assets...
+2026-01-01T18:39:56.847Z - info: Assets built
+2026-01-01T18:39:56.848Z - info: Generating pages...
+2026-01-01T18:40:03.054Z - debug:  
+2026-01-01T18:40:03.054Z - debug:  
+2026-01-01T18:40:03.054Z - debug:  
+2026-01-01T18:40:03.054Z - debug:  
+2026-01-01T18:40:03.054Z - debug:  
+2026-01-01T18:40:03.054Z - debug:  
+2026-01-01T18:40:03.054Z - debug:  
+2026-01-01T18:40:03.054Z - debug:  
+2026-01-01T18:40:03.104Z - debug:  
+2026-01-01T18:40:03.157Z - debug:  
+2026-01-01T18:40:03.200Z - debug:  
+2026-01-01T18:40:03.256Z - debug:  
+2026-01-01T18:40:03.262Z - debug:  
+2026-01-01T18:40:03.304Z - debug:  
+2026-01-01T18:40:06.337Z - debug:  
+2026-01-01T18:40:06.381Z - debug:  
+2026-01-01T18:40:06.452Z - debug:  
+2026-01-01T18:40:06.452Z - debug:  
+2026-01-01T18:40:06.483Z - debug:  
+2026-01-01T18:40:06.487Z - debug:  
+2026-01-01T18:40:06.504Z - debug:  
+2026-01-01T18:40:17.998Z - debug:  
+2026-01-01T18:40:19.472Z - debug:  
+2026-01-01T18:40:59.562Z - debug:  
+2026-01-01T18:40:59.562Z - debug:  
+2026-01-01T18:41:08.579Z - debug:  
+2026-01-01T18:41:19.036Z - debug:  
+2026-01-01T18:41:19.049Z - debug:  
+2026-01-01T18:41:25.703Z - info: Pages built
+2026-01-01T18:41:25.792Z - info: Site data built
+2026-01-01T18:41:25.792Z - info: Website generation complete! Total build time: 93.507s
+2026-01-01T18:41:25.792Z - info: Build success!
+2026-01-01T18:41:49.986Z - info: The website has been deployed at: https://nus-cs2113-ay2526-s2.github.io/website
