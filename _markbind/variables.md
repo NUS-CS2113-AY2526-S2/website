@@ -10,7 +10,7 @@
 <variable name="period">2026 Jan-Apr</variable>
 <variable name="current_week">1</variable> <!-- after semester ends, set this to 15 and enable built-in search in site.json -->
 
-<variable name="algolia">no</variable>
+<variable name="algolia">yes</variable>
 
 <variable name="canvas_course_id">85422</variable>
 <variable name="url_instructors">https://docs.google.com/document/d/e/2PACX-1vQ3yMfxtxatSX5XxWnZparVJN9UkEOu504YHyShketpCzdqQth4JDcwQwhWvOBi-XH8-gkdgMgGpg1t/pub?embedded=true</variable>
