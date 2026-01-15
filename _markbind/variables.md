@@ -15,12 +15,12 @@
 <variable name="canvas_course_id">85422</variable>
 <variable name="url_instructors">https://docs.google.com/document/d/e/2PACX-1vQ3yMfxtxatSX5XxWnZparVJN9UkEOu504YHyShketpCzdqQth4JDcwQwhWvOBi-XH8-gkdgMgGpg1t/pub?embedded=true</variable>
 <variable name="url_coursemology_classroom">https://coursemology.org/courses/x</variable>
-<variable name="url_ms_teams_class">x</variable>
+<variable name="url_ms_teams_class">https://teams.microsoft.com/l/team/19%3A-sIkNZ-lzuosK6PLw5tWQv4ZGkrlX5ZSapdJi4Yb6Y81%40thread.tacv2/conversations?groupId=18c025a7-454c-45a7-bde0-cf19eb8cd0a2&tenantId=5ba5ef5e-3109-4e77-85bd-cfeb0d347e82</variable>
 
 <variable name="date_w1_start">2026-01-12</variable>
 <variable name="day_first_tutorial">Wednesday</variable>
 <variable name="recess_after_week">6</variable>
-<variable name="lecture_venue">LT16</variable>
+<variable name="lecture_venue">LT9</variable>
 <variable name="time_lecture_start">1600</variable>
 <variable name="time_lecture_end">1800</variable>
 <variable name="time_t_lecture_start">1600</variable>
