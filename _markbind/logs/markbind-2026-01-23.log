@@ -1,0 +1,46 @@
+2026-01-22T16:02:40.554Z - info: Website generation started at 12:02:08 am
+2026-01-22T16:02:45.169Z - info: Building assets...
+2026-01-22T16:02:50.264Z - info: Assets built
+2026-01-22T16:02:50.265Z - info: Generating pages...
+2026-01-22T16:03:15.399Z - debug:  
+2026-01-22T16:03:15.404Z - debug:  
+2026-01-22T16:03:15.405Z - debug:  
+2026-01-22T16:03:15.894Z - debug:  
+2026-01-22T16:03:20.374Z - debug:  
+2026-01-22T16:03:20.375Z - debug:  
+2026-01-22T16:03:20.397Z - debug:  
+2026-01-22T16:03:20.397Z - debug:  
+2026-01-22T16:03:20.397Z - debug:  
+2026-01-22T16:03:20.397Z - debug:  
+2026-01-22T16:03:20.397Z - debug:  
+2026-01-22T16:03:20.397Z - debug:  
+2026-01-22T16:03:20.397Z - debug:  
+2026-01-22T16:03:20.398Z - debug:  
+2026-01-22T16:03:29.924Z - debug:  
+2026-01-22T16:03:29.967Z - debug:  
+2026-01-22T16:03:30.168Z - debug:  
+2026-01-22T16:03:30.210Z - debug:  
+2026-01-22T16:03:30.658Z - debug:  
+2026-01-22T16:03:30.915Z - debug:  
+2026-01-22T16:03:31.088Z - debug:  
+2026-01-22T16:04:29.272Z - debug:  
+2026-01-22T16:04:33.607Z - debug:  
+2026-01-22T16:07:24.207Z - debug:  
+2026-01-22T16:07:24.208Z - debug:  
+2026-01-22T16:07:46.096Z - debug:  
+2026-01-22T16:08:24.027Z - debug:  
+2026-01-22T16:08:24.180Z - debug:  
+2026-01-22T16:08:45.979Z - info: Pages built
+2026-01-22T16:08:48.209Z - info: Site data built
+2026-01-22T16:08:48.211Z - info: Website generation complete! Total build time: 399.334s
+2026-01-22T16:08:48.212Z - info: Build success!
+2026-01-22T16:10:13.840Z - error: uncaughtException: fatal: unable to access 'https://github.com/NUS-CS2113-AY2526-S2/website.git/': Could not resolve host: github.com
+ date=Fri Jan 23 2026 00:10:13 GMT+0800 (Singapore Standard Time), pid=32588, uid=null, gid=null, cwd=D:\AkshayNarayan\Teaching\CS2113\_AY2526Sem2\ay2526s2-website, execPath=C:\Program Files\nodejs\node.exe, version=v24.13.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\index.js, deploy], rss=1375531008, heapTotal=1219878912, heapUsed=463574624, external=2571998, arrayBuffers=52795, loadavg=[0, 0, 0], uptime=218811.64
+ProcessError: fatal: unable to access 'https://github.com/NUS-CS2113-AY2526-S2/website.git/': Could not resolve host: github.com
+
+    at ChildProcess.<anonymous> (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\gh-pages\lib\git.js:42:16)
+    at ChildProcess.emit (node:events:508:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+2026-01-23T00:55:22.209Z - info: Website generation started at 8:54:55 am
+2026-01-23T00:55:26.974Z - info: Building assets...
