@@ -44,3 +44,38 @@ ProcessError: fatal: unable to access 'https://github.com/NUS-CS2113-AY2526-S2/w
     at ChildProcess._handle.onexit (node:internal/child_process:305:5)
 2026-01-23T00:55:22.209Z - info: Website generation started at 8:54:55 am
 2026-01-23T00:55:26.974Z - info: Building assets...
+2026-01-23T00:55:32.012Z - info: Assets built
+2026-01-23T00:55:32.013Z - info: Generating pages...
+2026-01-23T00:56:03.400Z - debug:  
+2026-01-23T00:56:13.132Z - debug:  
+2026-01-23T00:56:13.133Z - debug:  
+2026-01-23T00:56:13.133Z - debug:  
+2026-01-23T00:56:13.134Z - debug:  
+2026-01-23T00:56:13.135Z - debug:  
+2026-01-23T00:56:13.135Z - debug:  
+2026-01-23T00:56:13.136Z - debug:  
+2026-01-23T00:56:13.136Z - debug:  
+2026-01-23T00:56:13.136Z - debug:  
+2026-01-23T00:56:13.136Z - debug:  
+2026-01-23T00:56:13.136Z - debug:  
+2026-01-23T00:56:13.137Z - debug:  
+2026-01-23T00:56:13.137Z - debug:  
+2026-01-23T00:56:24.758Z - debug:  
+2026-01-23T00:56:24.759Z - debug:  
+2026-01-23T00:56:24.759Z - debug:  
+2026-01-23T00:56:24.759Z - debug:  
+2026-01-23T00:56:24.893Z - debug:  
+2026-01-23T00:56:24.924Z - debug:  
+2026-01-23T00:56:26.017Z - debug:  
+2026-01-23T00:57:16.323Z - debug:  
+2026-01-23T00:57:20.696Z - debug:  
+2026-01-23T01:00:22.142Z - debug:  
+2026-01-23T01:00:22.142Z - debug:  
+2026-01-23T01:00:39.688Z - debug:  
+2026-01-23T01:01:00.424Z - debug:  
+2026-01-23T01:01:00.425Z - debug:  
+2026-01-23T01:01:21.601Z - info: Pages built
+2026-01-23T01:01:24.031Z - info: Site data built
+2026-01-23T01:01:24.031Z - info: Website generation complete! Total build time: 388.232s
+2026-01-23T01:01:24.032Z - info: Build success!
+2026-01-23T01:06:15.349Z - info: The website has been deployed at: https://nus-cs2113-ay2526-s2.github.io/website
