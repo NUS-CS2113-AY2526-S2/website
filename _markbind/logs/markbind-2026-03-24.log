@@ -1,0 +1,19 @@
+2026-03-23T16:49:43.474Z - info: Website generation (lazy) started at 12:49:18 am
+2026-03-23T16:49:52.262Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2526Sem2\ay2526s2-website\cache\gh-pages\https!github.com!NUS-CS2113-AY2526-S2!website.git\book\_markbind\variables.md'
+2026-03-23T16:49:52.266Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2526Sem2\ay2526s2-website\cache\gh-pages\https!github.com!NUS-CS2113-AY2526-S2!website.git\_markbind\variables.md'
+2026-03-23T16:49:52.405Z - info: Building assets...
+2026-03-23T16:51:14.708Z - info: Assets built
+2026-03-23T16:51:14.709Z - info: Generating landing page...
+2026-03-23T16:51:17.248Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-03-23T16:51:20.872Z - info: Site data built
+2026-03-23T16:51:20.873Z - info: Website generation (lazy) complete! Total build time: 122.794s
+2026-03-23T16:51:21.101Z - info: Serving "D:\AkshayNarayan\Teaching\CS2113\_AY2526Sem2\ay2526s2-website\_site" at http://127.0.0.1:8080
+2026-03-23T16:51:21.102Z - info: Press CTRL+C to stop ...
+2026-03-23T16:51:53.154Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2526Sem2\ay2526s2-website\schedule\week10\admin as some of its dependencies were changed since the last visit
+2026-03-23T16:52:04.204Z - info: Site data built
+2026-03-23T16:52:04.205Z - info: Lazy website regeneration complete! Total build time: 11.05s
+2026-03-23T16:54:51.141Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2526Sem2\ay2526s2-website\schedule\week10\project as some of its dependencies were changed since the last visit
+2026-03-23T16:54:53.518Z - info: Site data built
+2026-03-23T16:54:53.519Z - info: Lazy website regeneration complete! Total build time: 2.378s
+2026-03-23T16:57:18.309Z - info: Website generation started at 12:56:33 am
+2026-03-23T16:57:22.021Z - info: Building assets...
