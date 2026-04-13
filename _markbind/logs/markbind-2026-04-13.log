@@ -170,3 +170,40 @@ Aborting
     at ChildProcess._handle.onexit (node:internal/child_process:305:5)
 2026-04-13T06:23:53.150Z - info: Website generation started at 2:23:22 pm
 2026-04-13T06:23:57.759Z - info: Building assets...
+2026-04-13T06:24:06.018Z - info: Assets built
+2026-04-13T06:24:06.025Z - info: Generating pages...
+2026-04-13T06:24:30.494Z - debug:  
+2026-04-13T06:24:31.005Z - debug:  
+2026-04-13T06:24:37.131Z - debug:  
+2026-04-13T06:24:37.132Z - debug:  
+2026-04-13T06:24:37.132Z - debug:  
+2026-04-13T06:24:37.133Z - debug:  
+2026-04-13T06:24:38.215Z - debug:  
+2026-04-13T06:24:39.628Z - debug:  
+2026-04-13T06:24:39.689Z - debug:  
+2026-04-13T06:24:39.785Z - debug:  
+2026-04-13T06:24:39.957Z - debug:  
+2026-04-13T06:24:40.127Z - debug:  
+2026-04-13T06:24:40.128Z - debug:  
+2026-04-13T06:24:40.550Z - debug:  
+2026-04-13T06:24:53.560Z - debug:  
+2026-04-13T06:24:53.566Z - debug:  
+2026-04-13T06:24:55.058Z - debug:  
+2026-04-13T06:24:55.318Z - debug:  
+2026-04-13T06:24:55.364Z - debug:  
+2026-04-13T06:24:55.550Z - debug:  
+2026-04-13T06:24:56.170Z - debug:  
+2026-04-13T06:25:56.340Z - debug:  
+2026-04-13T06:26:01.016Z - debug:  
+2026-04-13T06:30:11.427Z - debug:  
+2026-04-13T06:30:11.431Z - debug:  
+2026-04-13T06:30:45.096Z - debug:  
+2026-04-13T06:31:57.332Z - debug:  
+2026-04-13T06:31:57.345Z - debug:  
+2026-04-13T06:32:42.116Z - info: Pages built
+2026-04-13T06:32:44.525Z - info: Site data built
+2026-04-13T06:32:44.526Z - info: Website generation complete! Total build time: 562.024s
+2026-04-13T06:32:44.527Z - info: Build success!
+2026-04-13T06:39:15.628Z - info: The website has been deployed at: https://nus-cs2113-ay2526-s2.github.io/website
+2026-04-13T07:56:14.131Z - info: Website generation started at 3:55:49 pm
+2026-04-13T07:56:18.399Z - info: Building assets...
