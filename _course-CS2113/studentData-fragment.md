@@ -26,7 +26,7 @@
 ['LIM ..TORE', 'CS2113-F09-2', 'tlimnus'],
 ['MELV.. HAO', 'CS2113-F09-2', 'Unicornyingg'],
 ['POH .. HAO', 'CS2113-F09-2', 'woshiweiha0'],
-['RYAN..HANG', 'CS2113-F09-2', 'ryyan544'],
+['RYAN..HANG', 'CS2113-F09-2', 'ryantrc'],
 ['CHEN..NGYU', 'CS2113-F09-3', 'Hongyu1231'],
 ['CHOY..HONG', 'CS2113-F09-3', 'zhanhong03'],
 ['GE W..QING', 'CS2113-F09-3', 'XiaoGeNekidora'],
