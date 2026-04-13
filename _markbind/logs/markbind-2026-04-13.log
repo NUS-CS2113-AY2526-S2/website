@@ -1,0 +1,172 @@
+2026-04-13T05:59:08.749Z - info: Website generation started at 1:58:42 pm
+2026-04-13T05:59:14.639Z - info: Building assets...
+2026-04-13T05:59:20.796Z - info: Assets built
+2026-04-13T05:59:20.797Z - info: Generating pages...
+2026-04-13T05:59:45.137Z - debug:  
+2026-04-13T05:59:45.161Z - debug:  
+2026-04-13T05:59:45.161Z - debug:  
+2026-04-13T05:59:45.163Z - debug:  
+2026-04-13T05:59:45.164Z - debug:  
+2026-04-13T05:59:45.164Z - debug:  
+2026-04-13T05:59:45.165Z - debug:  
+2026-04-13T05:59:45.167Z - debug:  
+2026-04-13T05:59:45.167Z - debug:  
+2026-04-13T05:59:45.168Z - debug:  
+2026-04-13T05:59:45.168Z - debug:  
+2026-04-13T05:59:45.169Z - debug:  
+2026-04-13T05:59:45.169Z - debug:  
+2026-04-13T05:59:47.914Z - debug:  
+2026-04-13T05:59:59.417Z - debug:  
+2026-04-13T05:59:59.417Z - debug:  
+2026-04-13T05:59:59.419Z - debug:  
+2026-04-13T05:59:59.421Z - debug:  
+2026-04-13T05:59:59.422Z - debug:  
+2026-04-13T05:59:59.428Z - debug:  
+2026-04-13T05:59:59.840Z - debug:  
+2026-04-13T06:00:47.644Z - debug:  
+2026-04-13T06:00:51.372Z - debug:  
+2026-04-13T06:05:00.751Z - debug:  
+2026-04-13T06:05:00.758Z - debug:  
+2026-04-13T06:05:31.068Z - debug:  
+2026-04-13T06:07:06.898Z - debug:  
+2026-04-13T06:07:06.913Z - debug:  
+2026-04-13T06:07:49.137Z - info: Pages built
+2026-04-13T06:07:51.636Z - info: Site data built
+2026-04-13T06:07:51.638Z - info: Website generation complete! Total build time: 549.413s
+2026-04-13T06:07:51.638Z - info: Build success!
+2026-04-13T06:08:07.854Z - error: uncaughtException: error: Your local changes to the following files would be overwritten by checkout:
+	_markbind/variables.md
+Please commit your changes or stash them before you switch branches.
+error: The following untracked working tree files would be overwritten by checkout:
+	book/about/images/chromeSaveAsPdf.png
+	book/architecture/architecturalStyles/clientServer/what/images/clientServer.png
+	book/architecture/architecturalStyles/clientServer/what/images/clientServerExamples.png
+	book/architecture/architecturalStyles/eventDriven/what/images/eventDriven.png
+	book/architecture/architecturalStyles/eventDriven/what/images/eventDrivenExamples.png
+	book/architecture/architecturalStyles/more/usingStyles/images/minesweeperExample.png
+	book/architecture/architecturalStyles/nTier/what/images/nTier.png
+	book/architecture/architecturalStyles/nTier/what/images/nTierExamples.png
+	book/architecture/architecturalStyles/serviceOriented/what/images/amazonWebServices.png
+	book/architecture/architecturalStyles/transactionProcessing/what/images/transactionProcessing.png
+	book/architecture/architecturalStyles/transactionProcessing/what/images/transactionProcessingExamples.png
+	book/architecture/architectureDiagrams/drawing/images/tip.png
+	book/architecture/introduction/what/images/minesweeper.png
+	book/architecture/introduction/what/images/minesweeperArchitecture.png
+	book/codeQuality/maximizeReadability/basic/avoidDeepNesting/images/arrowheadStyle.png
+	book/combined/images/classDiagramsAllNotations.png
+	book/combined/images/objectDiagramsAllNotations.png
+	book/commit.sh
+	book/common/macros.njk
+	book/cppToJava/misc/javaFX/part01/images/address-app-final-screenshot.png
+	book/cppToJava/misc/javaFX/part01/images/config-jdk-project-structure.png
+	book/cppToJava/misc/javaFX/part01/images/config-jdk-welcome-screen.png
+	book/cppToJava/misc/javaFX/part01/images/config-scene-builder-settings.png
+	book/cppToJava/misc/javaFX/part01/images/create-main-app-add-border-pane.png
+	book/cppToJava/misc/javaFX/part01/images/create-main-app-delete-anchor-pane.png
+	book/cppToJava/misc/javaFX/part01/images/create-main-app-menu-bar.png
+	book/cppToJava/misc/javaFX/part01/images/create-main-app-resize.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-button-bar.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-final.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-fit-to-parent.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-grid-pane-1.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-grid-pane-2.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-grid-pane-3.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-main-anchor.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-table-anchors.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-table-columns-resize.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-table-columns.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-title-label.png
+	book/cppToJava/misc/javaFX/part01/images/javafx-hierarchy.png
+	book/cppToJava/misc/javaFX/part01/images/javafx-import-error.png
+	book/cppToJava/misc/javaFX/part01/images/new-packages.png
+	book/cppToJava/misc/javaFX/part01/images/new-project.png
+	book/cppToJava/misc/javaFX/part02/images/address-app-final-screenshot.png
+	book/cppToJava/misc/javaFX/part02/images/hook-view-controller.png
+	book/cppToJava/misc/javaFX/part02/images/hook-view-labels.png
+	book/cppToJava/misc/javaFX/part02/images/hook-view-person-table.png
+	book/css/common.css
+	book/css/print.css
+	book/css/textbook.css
+	book/deploy.sh
+	book/designFundamentals/coupling/what/images/alternativeDesigns.png
+	book/designFundamentals/coupling/what/images/playerPuzzleManager.png
+	book/designPatterns/abstractionOccurrence/what/images/abstractionOccurrence.png
+	book/designPatterns/abstractionOccurrence/what/images/beforeAfter.png
+	book/designPatterns/abstractionOccurrence/what/images/book.png
+	book/designPatterns/abstractionOccurrence/what/images/bookFriends.png
+	book/designPatterns/abstractionOccurrence/what/images/bookTitleBookCopy.png
+	book/designPatterns/command/what/images/clientInvoker.png
+	book/designPatterns/command/what/images/commandCr
+Aborting
+ date=Mon Apr 13 2026 14:08:07 GMT+0800 (Singapore Standard Time), pid=33308, uid=null, gid=null, cwd=D:\AkshayNarayan\Teaching\CS2113\_AY2526Sem2\ay2526s2-website, execPath=C:\Program Files\nodejs\node.exe, version=v24.13.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\index.js, deploy], rss=1301643264, heapTotal=1482678272, heapUsed=1364972352, external=3113794, arrayBuffers=594591, loadavg=[0, 0, 0], uptime=581770.75
+ProcessError: error: Your local changes to the following files would be overwritten by checkout:
+	_markbind/variables.md
+Please commit your changes or stash them before you switch branches.
+error: The following untracked working tree files would be overwritten by checkout:
+	book/about/images/chromeSaveAsPdf.png
+	book/architecture/architecturalStyles/clientServer/what/images/clientServer.png
+	book/architecture/architecturalStyles/clientServer/what/images/clientServerExamples.png
+	book/architecture/architecturalStyles/eventDriven/what/images/eventDriven.png
+	book/architecture/architecturalStyles/eventDriven/what/images/eventDrivenExamples.png
+	book/architecture/architecturalStyles/more/usingStyles/images/minesweeperExample.png
+	book/architecture/architecturalStyles/nTier/what/images/nTier.png
+	book/architecture/architecturalStyles/nTier/what/images/nTierExamples.png
+	book/architecture/architecturalStyles/serviceOriented/what/images/amazonWebServices.png
+	book/architecture/architecturalStyles/transactionProcessing/what/images/transactionProcessing.png
+	book/architecture/architecturalStyles/transactionProcessing/what/images/transactionProcessingExamples.png
+	book/architecture/architectureDiagrams/drawing/images/tip.png
+	book/architecture/introduction/what/images/minesweeper.png
+	book/architecture/introduction/what/images/minesweeperArchitecture.png
+	book/codeQuality/maximizeReadability/basic/avoidDeepNesting/images/arrowheadStyle.png
+	book/combined/images/classDiagramsAllNotations.png
+	book/combined/images/objectDiagramsAllNotations.png
+	book/commit.sh
+	book/common/macros.njk
+	book/cppToJava/misc/javaFX/part01/images/address-app-final-screenshot.png
+	book/cppToJava/misc/javaFX/part01/images/config-jdk-project-structure.png
+	book/cppToJava/misc/javaFX/part01/images/config-jdk-welcome-screen.png
+	book/cppToJava/misc/javaFX/part01/images/config-scene-builder-settings.png
+	book/cppToJava/misc/javaFX/part01/images/create-main-app-add-border-pane.png
+	book/cppToJava/misc/javaFX/part01/images/create-main-app-delete-anchor-pane.png
+	book/cppToJava/misc/javaFX/part01/images/create-main-app-menu-bar.png
+	book/cppToJava/misc/javaFX/part01/images/create-main-app-resize.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-button-bar.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-final.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-fit-to-parent.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-grid-pane-1.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-grid-pane-2.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-grid-pane-3.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-main-anchor.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-table-anchors.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-table-columns-resize.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-table-columns.png
+	book/cppToJava/misc/javaFX/part01/images/design-scene-builder-title-label.png
+	book/cppToJava/misc/javaFX/part01/images/javafx-hierarchy.png
+	book/cppToJava/misc/javaFX/part01/images/javafx-import-error.png
+	book/cppToJava/misc/javaFX/part01/images/new-packages.png
+	book/cppToJava/misc/javaFX/part01/images/new-project.png
+	book/cppToJava/misc/javaFX/part02/images/address-app-final-screenshot.png
+	book/cppToJava/misc/javaFX/part02/images/hook-view-controller.png
+	book/cppToJava/misc/javaFX/part02/images/hook-view-labels.png
+	book/cppToJava/misc/javaFX/part02/images/hook-view-person-table.png
+	book/css/common.css
+	book/css/print.css
+	book/css/textbook.css
+	book/deploy.sh
+	book/designFundamentals/coupling/what/images/alternativeDesigns.png
+	book/designFundamentals/coupling/what/images/playerPuzzleManager.png
+	book/designPatterns/abstractionOccurrence/what/images/abstractionOccurrence.png
+	book/designPatterns/abstractionOccurrence/what/images/beforeAfter.png
+	book/designPatterns/abstractionOccurrence/what/images/book.png
+	book/designPatterns/abstractionOccurrence/what/images/bookFriends.png
+	book/designPatterns/abstractionOccurrence/what/images/bookTitleBookCopy.png
+	book/designPatterns/command/what/images/clientInvoker.png
+	book/designPatterns/command/what/images/commandCr
+Aborting
+
+    at ChildProcess.<anonymous> (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\gh-pages\lib\git.js:42:16)
+    at ChildProcess.emit (node:events:508:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+2026-04-13T06:23:53.150Z - info: Website generation started at 2:23:22 pm
+2026-04-13T06:23:57.759Z - info: Building assets...
